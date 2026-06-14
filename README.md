@@ -1,12 +1,11 @@
 ---
 
-<h1>
-  <img src="icons/icon128.png"
-       width="36"
-       style="vertical-align: middle;"
-       alt="Keyword Blocker Icon">
-  Keyword Blocker
-</h1>
+<table>
+<tr>
+<td><img src="icons/icon128.png" width="36"></td>
+<td><h1>Keyword Blocker</h1></td>
+</tr>
+</table>
 
 A lightweight and minimal browser extension that helps users avoid unwanted websites by blocking URLs containing custom keywords.
 
