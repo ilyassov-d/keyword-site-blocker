@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="popup.css" />
+    <title>Keyword Blocker</title>
+  </head>
+  <body>
+    <main class="card">
+      <h1>Keyword Blocker</h1>
+      <p class="hint">One keyword per line. Matching is case-insensitive and checks the page URL.</p>
+      <textarea id="keywords" placeholder="example&#10;social&#10;news"></textarea>
+      <button id="save">Save</button>
+      <p id="status" aria-live="polite"></p>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>
