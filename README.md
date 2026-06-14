@@ -1,7 +1,7 @@
 ---
 
 <h1>
-  <img src="icons/icon128.png" width="36" style="vertical-align:-5px">
+  <img src="icons/icon128.png" width="36" style="vertical-align:-2px">
   Keyword Blocker
 </h1>
 
