@@ -1,7 +1,10 @@
 ---
 
 <h1>
-  <img src="icons/icon128.png" width="36" alt="Keyword Blocker Icon">
+  <img src="icons/icon128.png"
+       width="36"
+       style="vertical-align: middle;"
+       alt="Keyword Blocker Icon">
   Keyword Blocker
 </h1>
 
